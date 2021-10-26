@@ -1,0 +1,32 @@
+#intro {
+    background-image: linear-gradient(to right, red, blue);
+}
+
+#cube_image {
+    height: 30%;
+}
+
+#how_to_solve {
+    background-image: linear-gradient(lightgreen, lightblue);
+}
+
+#practice {
+    background-image: linear-gradient(rgb(250, 78, 35), lightgreen);
+}
+
+p {
+    font-size: 20px;
+}
+
+#improve {
+    background-image: linear-gradient(orange , red);
+}
+
+#center {
+    text-align: center;
+    float: none;
+}
+
+#chat {
+    background-image: linear-gradient(lightblue, blue);
+}
